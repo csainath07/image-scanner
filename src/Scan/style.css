@@ -1,0 +1,12 @@
+.scan-page-container {
+  padding: 10px;
+}
+
+.scan-page-container a {
+  color: #333;
+}
+
+.selected-image {
+  margin-top: 15px;
+  transition: all ease-in-out 0.2s;
+}
